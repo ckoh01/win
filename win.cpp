@@ -4,7 +4,7 @@
 #include "framework.h"
 #include "win.h"
 
-#define MAX_LOADSTRING 100
+#define MAX_LOADSTRING 80
 
 // 全局变量:
 HINSTANCE hInst;                                // 当前实例
